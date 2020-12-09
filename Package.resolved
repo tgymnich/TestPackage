@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "BigInt",
+        "repositoryURL": "https://github.com/attaswift/BigInt.git",
+        "state": {
+          "branch": null,
+          "revision": "889a1ecacd73ccc189c5cb29288048f186c44ed9",
+          "version": "5.2.1"
+        }
+      },
+      {
+        "package": "Charts",
+        "repositoryURL": "https://github.com/danielgindi/Charts.git",
+        "state": {
+          "branch": null,
+          "revision": "66546404a6739173b8e436ab6bc1f2897cd08594",
+          "version": "3.6.0"
+        }
+      },
+      {
+        "package": "swift-system",
+        "repositoryURL": "/Users/tim/Desktop/swift-system",
+        "state": {
+          "branch": null,
+          "revision": "8ffa04c0a0592e6f4f9c30926dedd8fa1c5371f9",
+          "version": "0.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
